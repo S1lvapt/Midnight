@@ -46,4 +46,3 @@ steps:
       path: |
         libs/**/*.so
         obj/local/**/*.so
-```
