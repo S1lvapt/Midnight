@@ -2,7 +2,7 @@
 
 **Midnight - iOS** is a **NSURLProtocol** redirect that registers itself to the game and redirect every request from epicgames to a Hosted Custom Backend to give the ability to play on iOS.
 
-## Support
+## Suppor
 
 - **3.3 - 10.30**: Fully working
 - **31.00+**: Experimental/Not tested
